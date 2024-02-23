@@ -1,0 +1,12 @@
+---
+title: "Nay"
+---
+
+```{r include=FALSE}
+library(cowsay)
+```
+
+```{r echo=FALSE, results="asis"}
+say(" Nay!")
+```
+
