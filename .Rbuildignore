@@ -1,1 +1,4 @@
 ^\.github$
+Makefile
+_quarto.yml
+_publish.yml
